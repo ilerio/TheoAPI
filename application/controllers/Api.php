@@ -5,7 +5,8 @@ class Api extends CI_Controller {
 	public function __construct()
 	{
 		parent::__construct();
-		header('Content-type: application/json');
+    header('Content-type: application/json');
+    header('Access-Control-Allow-Origin: *');
 		$this->load->library(array('quotes','words'));
 	}
 
