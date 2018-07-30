@@ -1,5 +1,5 @@
 # TheoAPI
-### An API for random words and quoes by theologians
+### An API for random words and quotes by theologians
 
 <br />
 
