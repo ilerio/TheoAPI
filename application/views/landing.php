@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>TheoQuotesAPI</title>
+    <title>TheoAPI</title>
   </head>
   <body>
     <h1>TheoQuotesAPI:</h1>
@@ -43,6 +43,6 @@
 
     <br /><br />
 
-    <a href='#'>source code</a>
+    <a href='https://github.com/ilerio/TheoAPI/'>source code</a>
   </body>
 </html>
