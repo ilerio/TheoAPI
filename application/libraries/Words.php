@@ -32,6 +32,10 @@ class Words {
       return [];
     }
 
+    if ($n > 100) {
+      $n = 100;
+    }
+
     $i = 0;
     while ($i < $n) {
       $x = rand(0, $this->w_count);
