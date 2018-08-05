@@ -41,7 +41,7 @@ Returns a random word
 
 `/words/<n>`
 
-Returns n random words (n is an integer from 1 -> not 1)
+Returns n random words (n is an integer from 1 -> 100)
 
 <br />
 
