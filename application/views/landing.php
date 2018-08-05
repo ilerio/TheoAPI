@@ -39,7 +39,7 @@
     <br /><br />
 
     `/words/&lt;n&gt;`<br />
-    Returns n random words (n is an integer from 1 -> not 1)
+    Returns n random words (n is an integer from 1 -> 100)
 
     <br /><br />
 
